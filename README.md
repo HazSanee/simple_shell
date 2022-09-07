@@ -110,4 +110,4 @@ $ exit
 
 ---
 ### Authors
-1. Bakare Ridhwan @ibnbakare
+1. Bakare Ridhwan [@ibnbakare](https://github/ibnbakre)
