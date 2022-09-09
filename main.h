@@ -1,7 +1,6 @@
-#ifndef  BACCRIE_CHIME
+#ifndef MAIN_H
 
-
-#define  BACCRIE_CHIME
+#define MAIN_H
 
 #include <stdio.h>
 #include <unistd.h>
