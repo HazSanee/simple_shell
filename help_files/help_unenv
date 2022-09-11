@@ -6,4 +6,4 @@ unsetenv: unsetenv
 
 
 	No...
-	Return success unless a NAME is not an existing alias.  
+	Return success unless a NAME is not an existing alias.
